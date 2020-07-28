@@ -5,7 +5,7 @@ def snake_it_up(string)
 
     product = (10 * "s") + string
   else
-  
+
     product
   end
 end
